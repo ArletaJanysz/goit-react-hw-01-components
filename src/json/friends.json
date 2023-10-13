@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "avatar": "https://www.freepik.com/icon/gamer_4333609#fromView=keyword&term=Avatar&page=1&position=18",
+    "name": "Mango",
+    "isOnline": true
+  },
+
+  {
+    "id": 2,
+    "avatar": "https://www.freepik.com/icon/gamer_4333609#fromView=keyword&term=Avatar&page=1&position=18",
+    "name": "Kiwi",
+    "isOnline": true
+  },
+
+  {
+    "id": 3,
+    "avatar": "https://www.freepik.com/icon/gamer_4333609#fromView=keyword&term=Avatar&page=1&position=18",
+    "name": "Ajax",
+    "isOnline": false
+  },
+
+   {
+     "id": 4,
+     "avatar": "https://www.freepik.com/icon/gamer_4333609#fromView=keyword&term=Avatar&page=1&position=18",
+     "name": "Jay",
+     "isOnline": false
+   },
+
+    {
+    "id": 5,
+    "avatar": "https://www.freepik.com/icon/gamer_4333609#fromView=keyword&term=Avatar&page=1&position=18",
+    "name": "Poly",
+    "isOnline": false
+  }
+]
