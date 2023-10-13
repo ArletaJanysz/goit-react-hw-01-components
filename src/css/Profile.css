@@ -1,7 +1,15 @@
 .profile {
+  margin: 15px auto;
+  overflow: hidden;
   width: 300px;
   border: solid 1px #000;
   border-radius: 10px;
+  background: linear-gradient(
+    132deg,
+    rgb(226, 255, 255) 0%,
+    rgb(188, 215, 222) 31%,
+    rgb(149, 174, 174) 100%
+  );
 }
 
 .description {
