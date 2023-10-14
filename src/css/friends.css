@@ -1,4 +1,49 @@
 .friend-list {
-  height: 500px;
-  background-color: teal;
+  width: 300px;
+  margin: 15px auto;
+}
+
+.item {
+  position: relative;
+  margin: 10px 0;
+
+  padding-left: 40px;
+  width: 100%;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #aef6da4f;
+  border: 1px solid black;
+  border-radius: 25px;
+  gap: 20px;
+}
+
+.status {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  left: 15px;
+  border-radius: 50%;
+}
+.status.on {
+  background-color: #70d361c4;
+  border-color: #fff;
+}
+.status.off {
+  background-color: #e54444e7;
+  border-color: #000;
+}
+
+.on,
+.off {
+  border: 1px solid;
+}
+
+.avatar {
+  width: 50px;
+}
+
+.name {
+  width: calc(100% / 2);
 }
