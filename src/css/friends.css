@@ -6,15 +6,14 @@
 .item {
   position: relative;
   margin: 10px 0;
-
   padding-left: 40px;
   width: 100%;
   display: flex;
   flex-wrap: nowrap;
   justify-content: space-between;
   align-items: center;
-  background-color: #aef6da4f;
-  border: 1px solid black;
+  background-color: #383841be;
+  border: 2px solid #9197e4;
   border-radius: 25px;
   gap: 20px;
 }
@@ -26,22 +25,10 @@
   left: 15px;
   border-radius: 50%;
 }
-.status.on {
-  background-color: #70d361c4;
-  border-color: #fff;
-}
-.status.off {
-  background-color: #e54444e7;
-  border-color: #000;
-}
-
-.on,
-.off {
-  border: 1px solid;
-}
 
 .avatar {
   width: 50px;
+  padding: 3px;
 }
 
 .name {

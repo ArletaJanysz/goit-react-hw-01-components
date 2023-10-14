@@ -1,22 +1,16 @@
 .transactionHistory {
   width: 600px;
   margin: 15px auto;
-  border: 1px solid #000;
+  border: 1px solid #4c4d5ead;
 }
-.table-head {
+.tableHeader {
   height: 40px;
-  background-color: #fca63c;
+  background-color: #9197e4;
 }
-.table-body {
+.tableBody {
   text-align: center;
 }
 
-.table-body-even {
-  height: 30px;
-  background-color: #ffe4c4;
-}
-
-.table-body-odd {
-  height: 30px;
-  background-color: #ffd198;
+.tableDetail {
+  background-color: #cacce960;
 }
