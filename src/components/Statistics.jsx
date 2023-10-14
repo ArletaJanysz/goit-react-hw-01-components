@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import css from '../css/Statistics.css';
+import css from '../css/Statistics.module.css';
 
 const getRandomColor = () => {
   const colors = ['#FF5733', '#33FF57', '#5733FF', '#FF33F7', '#33AFFF'];
