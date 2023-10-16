@@ -14,6 +14,7 @@ const Statistics = ({ title, stats }) => {
         {stats.map((stat, index) => (
           <li
             key={index}
+            //    key={`stat-list_${index}`}    lepiej tak
             className={css.item}
             style={{ backgroundColor: getRandomColor() }}
           >
